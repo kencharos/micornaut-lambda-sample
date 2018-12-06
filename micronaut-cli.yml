@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.lambda.sample
+---
+testFramework: junit
+sourceLanguage: java
